@@ -1,26 +1,26 @@
 # ChatGPT-SEO-Article-Generator
 Making a SEO article generator using ChatGPT with StreamLit
-## Quasar App (internproject)
 
-A Quasar Project
+### Step 1: Install Anaconda by downloading the latest version from the official website: https://www.anaconda.com/products/individual
 
-## Install the dependencies
+### Step 2: Install the dependencies by opening your command prompt or terminal application. (Note: I used VS Code)
+1. OpenAI
 ```bash
-yarn
-# or
-npm install
+pip install openai --user
 ```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+2. Streamlit
 ```bash
-quasar dev
+pip install streamlit --user
 ```
 
+### Step 3: Navigate to the directory where your app's code is stored using the command prompt or terminal application.
 
-### Build the app for production
+### Step 4: Run the Streamlit app by typing the following command and pressing Enter:
 ```bash
-quasar build
+streamlit run main.py
 ```
 
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js).
+### Output:
+https://user-images.githubusercontent.com/67680115/227016923-73b2d547-93d2-4bfb-a2b8-9eadc14bb590.mp4
+
