@@ -1,7 +1,8 @@
 # ChatGPT-SEO-Article-Generator
 Making a SEO article generator using ChatGPT with StreamLit
 
-### Step 1: Install Anaconda by downloading the latest version from the official website: https://www.anaconda.com/products/individual
+### Step 1: Install Anaconda by downloading the latest version from the official website: 
+https://www.anaconda.com/products/individual
 
 ### Step 2: Install the dependencies by opening your command prompt or terminal application. (Note: I used VS Code)
 1. OpenAI
